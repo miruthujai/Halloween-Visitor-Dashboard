@@ -121,7 +121,7 @@ The dashboard helps analyze:
 
 | File Name                 | Description                               |
 | ------------------------- | ----------------------------------------- |
-| `Halloween Dashboard.twb` | Tableau workbook containing the dashboard |
+| Halloween Dashboard.twb | Tableau workbook containing the dashboard |
 | `Halloween_Data.xlsx`     | Halloween visitor dataset                 |
 | `README.md`               | Project documentation                     |
 
