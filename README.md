@@ -38,7 +38,7 @@ The dataset contains visitor counts recorded at different times during Halloween
 
 ## 📂 Files
 
-* `Halloween Dashboard.twb` – Tableau workbook
+* Dash board.png – Tableau workbook
 * `Halloween_Data.xlsx` – Dataset
 * `README.md` – Project documentation
 
