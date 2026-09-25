@@ -13,12 +13,6 @@ The dataset contains visitor counts recorded at different times during Halloween
 * **Main Fields:** Year, Time, Visitor Count, Total Visitors
 * **Dataset:** Halloween Visitor Data
 
-## 🛠️ Tools Used
-
-* **Tableau** – Dashboard and visualization
-* **Microsoft Excel** – Data preparation
-* **Data Analysis** – Trend and year-wise comparison
-
 ## 🔄 Project Process
 
 1. Loaded and prepared the dataset in Tableau.
